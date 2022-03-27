@@ -90,6 +90,8 @@ body {
 .main-img {
 
     margin: .5em;
+    height: calc(100% - 1em);
+    width: auto;
 
 }
 
